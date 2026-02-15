@@ -9,8 +9,23 @@
 
 ## Заводская комплектация
 Номер запчасти [62100-48K00-28W](https://www.bike-parts-suz.com/suzuki-motorcycle/assignment_spare_parts/6210048K0028W).
-На вопрос о упругости пружины от `omniaracing.it` был получен ответ, что в стандартной комплектации идет пружина `100 N/mm`.
-Однако на сайте K-Tec заявлено [Std Spring Rate (N): 110](https://store.ktechsuspension.com/part-finder?find=Suzuki_GSX-S1000_2023).
+Характеристики с сайта [K-Tec](https://store.ktechsuspension.com/part-finder?find=Suzuki_GSX-S1000_2023).
+
+| Параметр                          | Значение            |
+|-----------------------------------|:-------------------:|
+| OEM                               | KYB (40/14) Mono Tube (Emulsion) |
+| Std Spring Rate (N)               | 110                 |
+| Preload (mm)                      | -                   |
+| Unladen Sag (mm)                  | 16.00               |
+| Laden Sag (mm)                    | 38.00               |
+| Oil Viscosity (Wt)                | 2.50                |
+| Gas Pressure (bar)                | -                   |
+| Length (mm)                       | 328.00              |
+| Stroke (mm)                       | 66.00               |
+| L/S Compression Clicker           | -                   |
+| H/S Compression Position          | -                   |
+| Clicker Position Rebound          | -                   |
+
 
 
 ## Сторонние производители
