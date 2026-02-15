@@ -1,3 +1,9 @@
+# IDE
+.DS_Store
+.idea/
+.npm/
+.vscode/
+
 # Logs
 logs
 *.log
