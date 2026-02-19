@@ -1,0 +1,25 @@
+## Список интересных шлемов
+Источник Champion Helmets
+
+
+| Helmet model                 | Weight (g) | Noise (dB) | Notes
+|------------------------------|------------|------------|------------
+| LS2 Thunder Carbon GP Pro    | 1468       | -          | €799
+| LS2 Explorer Carbon          | -          | 96         | off-road helmet
+| **LS2 Dragon**               | 1466       | 100        | €479 dark smoke visor included 
+| LS2 Vector 2 Carbon          | 1391       | 100        | €379 (road & highway)
+| Arai RX-7V Evo               | 1557       | 101        |
+| Shoei NXR 2                  | 1370       | -          | $550
+| Nolan X-803 RS UC            | 1390       | -          |
+| Nolan X-804 RS UC            | 1462       | -          |
+| **HJC RPHA 12**              | 1424/1474  | -          | $550/49k
+| **HJC RPHA 12 Carbon**       | 1383       | 100        | $630/73k, racing
+| HJC RPHA 72 /Carbon          | 1429       | 102        | $570/$630,sport-touring
+| HJC RPHA 71 Carbon           | 1511       | 100        | $640/59k
+| HJC RPHA 71                  | -          | 98         | $560/41k
+| HJC RPHA 70 Carbon           | 1390       | 97         |
+| *HJC F70*                    | 1450       | 105        |
+| HJC F71 Carbon               | 1469       | 105        | €460
+| HJC RPHA 91 модуляр          | -          | 95         |  
+| **Scorpion EXO-R1 evo 2 air**| 1400       | 96         | $430/43600
+| Scorpion EXO-GT sp air       | 1468       | 99         | 
