@@ -31,7 +31,7 @@
 | HJC F70                            | 1450       | 105        |
 | HJC F71 Carbon                     | 1469       | 105        | €460
 | HJC RPHA 91 модуляр                | -          | 95         |  
-| **Scorpion EXO-R1 evo 2 air**      | 1400       | 96         | $440/43600, racing
+| **Scorpion EXO-R1 evo 2 air**      | 1400       | 96         | $500/43600, racing
 | **Scorpion EXO-1500 Carbon air**   | 1446       | 100        | $430, touring
 | Scorpion EXO-1500 air              | -          | -          | $370, touring
 | Scorpion EXO-1400 evo 2 Carbon air | 1424       | 100        | $430, touring
