@@ -31,8 +31,23 @@
 | HJC F70                            | 1450       | 105        |
 | HJC F71 Carbon                     | 1469       | 105        | €460
 | HJC RPHA 91 модуляр                | -          | 95         |  
-| **Scorpion EXO-R1 evo 2 air**      | 1400       | 96         | $500/43600, racing
-| **Scorpion EXO-1500 Carbon air**   | 1446       | 100        | $430, touring
+| **Scorpion EXO-R1 evo 2 air**      | 1371       | 96         | $500/43600, racing, без визора, дымчатый визор в комплекте (?)
+| **Scorpion EXO-1500 Carbon air**   | 1446       | 100        | $430, touring, дымчатый визор в комплекте
 | Scorpion EXO-1500 air              | -          | -          | $370, touring
-| Scorpion EXO-1400 evo 2 Carbon air | 1424       | 100        | $430, touring
-| Scorpion EXO-GT sp air             | 1468       | 99         | $480, touring
+| Scorpion EXO-1400 evo 2 Carbon air | 1424       | 100        | $430, touring, дымчатый визор в комплекте
+| Scorpion EXO-GT sp air             | 1468       | 99         | $480, touring, дымчатый визор в комплекте
+
+
+### Short-list
+
+| Helmet model                       | Notes
+|------------------------------------|------------
+| Scorpion EXO-R1 evo 2 air          | 1371g, тихий #1, легкий #1, без солнцезащитного выдвижного визора (+), racing, d-ring
+| Scorpion EXO-GT sp air             | 1468g, тихий #2, touring, лучше вентиляция (/R1, /1500), d-ring, есть визор
+| HJC RPHA 12                        | 1424g, легкий #2, проверенная марка, много вариантов доступны, racing, d-ring 
+| LS2 Dragon                         | 1466g, недорогой
+| Scorpion EXO-1500 Carbon air       | 1424g, легкий #2, недорогой
+
+У всех pinlock в комплекте.
+
+
