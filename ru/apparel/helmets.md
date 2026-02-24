@@ -22,7 +22,7 @@
 | Shoei NXR 2                        | 1370       | -          | $550
 | **Shoei GT-Air 3**                 | 1574       | 98         | $550
 | Nolan X-803 RS UC                  | 1390       | 100        |
-| Nolan X-804 RS UC                  | 1462       | 100        |
+| Nolan X-804 RS UC                  | 1462       | 100        | €650, 4 размера оболочки
 | HJC RPHA 12                        | 1424/1474  | -          | $550/49k, racing
 | **HJC RPHA 12 Carbon**             | 1383       | 100        | $630/73k, racing
 | HJC RPHA 72 /Carbon                | 1429       | 102        | $570/$630,sport-touring
@@ -32,7 +32,7 @@
 | HJC F70                            | 1450       | 105        |
 | HJC F71 Carbon                     | 1469       | 105        | €460
 | HJC RPHA 91 модуляр                | -          | 95         |  
-| **Scorpion EXO-R1 evo 2 air**      | 1371       | 96         | $500/43600, racing, без визора, дымчатый визор в комплекте (?)
+| **Scorpion EXO-R1 evo 2 air**      | 1371       | 96         | $500/43600, racing, без визора, дымчатый визор в комплекте
 | **Scorpion EXO-1500 Carbon air**   | 1446       | 100        | $430, touring, дымчатый визор в комплекте
 | Scorpion EXO-1500 air              | -          | -          | $370, touring
 | Scorpion EXO-1400 evo 2 Carbon air | 1424       | 100        | $430, touring, дымчатый визор в комплекте
