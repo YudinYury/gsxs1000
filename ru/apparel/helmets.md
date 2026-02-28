@@ -19,8 +19,8 @@
 | **LS2 Dragon**                     | 1466       | 100        | €479 dark smoke visor included 
 | LS2 Vector 2 Carbon                | 1391       | 100        | €379 (road & highway)
 | Arai RX-7V Evo                     | 1557       | 101        |
-| **Shoei NXR 2**                    | 1365       | 98         | $550
-| Shoei GT-Air 3                     | 1574       | 98         | $550
+| **Shoei NXR 2**                    | 1365       | 98         | $550, sport
+| Shoei GT-Air 3                     | 1574       | 98         | $550, touring
 | Nolan X-803 RS UC                  | 1390       | 100        | плохое качество материалов (от реального пладельца)
 | Nolan X-804 RS UC                  | 1462       | 100        | €650, 4 размера оболочки
 | HJC RPHA 12                        | 1424/1474  | -          | $550/49k, racing
@@ -43,7 +43,7 @@
 
 | Helmet model                       | Notes
 |------------------------------------|------------
-| Shoei GT-Air 3                     | 99dB, 1574g, тихий #3 (+ 3dB)
+| Shoei GT-Air 3                     | 99dB, 1574g, тихий #3 (+ 3dB), touring
 | **Shoei NXR 2**                    | 98dB, 1365g, тихий #2 (+ 2dB), легкий #1-2, без internal визора (+)
 | **Scorpion EXO-R1 evo 2 air**      | 96dB, 1371g, тихий #1, легкий #1-2, без internal визора (+), racing, d-ring
 | Scorpion EXO-GT sp air             | 99dB, 1468g, тихий #3 (+ 3dB), touring, лучше вентиляция (/R1, /1500), d-ring, + дымчатый визор
