@@ -43,7 +43,7 @@
 
 | Helmet model                       | Notes
 |------------------------------------|------------
-| Shoei GT-Air 3                     | 99dB, 1574g, тихий #3 (+ 3dB), touring
+| Shoei GT-Air 3                     | 98dB, 1574g, тихий #2 (+ 2dB), touring
 | **Shoei NXR 2**                    | 98dB, 1365g, тихий #2 (+ 2dB), легкий #1-2, без internal визора (+)
 | **Scorpion EXO-R1 evo 2 air**      | 96dB, 1371g, тихий #1, легкий #1-2, без internal визора (+), racing, d-ring
 | Scorpion EXO-GT sp air             | 99dB, 1468g, тихий #3 (+ 3dB), touring, лучше вентиляция (/R1, /1500), d-ring, + дымчатый визор
