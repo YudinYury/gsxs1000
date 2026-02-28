@@ -14,7 +14,8 @@
 
 | Helmet model                       | Weight (g) | Noise (dB) | Notes
 |------------------------------------|------------|------------|------------
-| LS2 Thunder Carbon GP Pro          | 1468       | -          | €799
+| LS2 Thunder Carbon GP Pro          | 1468       | -          | €800
+| LS2 Thunder Carbon                 | 1341       | -          | 
 | ~~LS2 Explorer Carbon~~            | -          | 96         | off-road helmet
 | **LS2 Dragon**                     | 1466       | 100        | €479 dark smoke visor included 
 | LS2 Vector 2 Carbon                | 1391       | 100        | €379 (road & highway)
@@ -47,8 +48,9 @@
 | **Shoei NXR 2**                    | 98         | 1365       | $550/82k   | тихий #2 (+ 2dB), легкий #1-2, без internal визора (+)
 | **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | $500/47k   | тихий #1, легкий #1-2, без internal визора (+), racing, d-ring
 | Scorpion EXO-GT sp air             | 99         | 1468       | $480/51k   | тихий #3 (+ 3dB), touring, лучше вентиляция (/R1, /1500), d-ring, + дымчатый визор
-| Scorpion EXO-1500 Carbon air       | 100        | 1424       | $430       | легкий #3, недорогой
+| Scorpion EXO-1500 Carbon air       | 100        | 1424       | $430/46k   | легкий #3, недорогой
 | HJC RPHA 12 Carbon                 | 100        | 1383       | $630/73k   | легкий #3, проверенная марка, много вариантов доступны, racing, d-ring 
+| LS2 Thunder Carbon GP Pro          | 101        | 1341       | €800/101k  |
 | LS2 Dragon                         | 100        | 1466       | €479       | недорогой
 
 
