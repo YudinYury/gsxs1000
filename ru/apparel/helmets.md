@@ -18,7 +18,7 @@
 | LS2 Thunder Carbon                 | 1341       | -          | 
 | ~~LS2 Explorer Carbon~~            | -          | 96         | off-road helmet
 | **LS2 Dragon**                     | 1466       | 100        | €479 dark smoke visor included 
-| LS2 Vector 2 Carbon                | 1391       | 100        | €379 (road & highway)
+| LS2 Vector 2 Carbon                | 1391       | 102        | €370 (road & highway)
 | Arai RX-7V Evo                     | 1557       | 101        |
 | **Shoei NXR 2**                    | 1365       | 98         | $550/82k, sport, без internal визора (+)
 | Shoei GT-Air 3                     | 1574       | 98         | $550, touring
@@ -48,11 +48,10 @@
 | **Shoei NXR 2**                    | 98         | 1365       | $550/82k   | тихий #2 (+ 2dB), легкий #1-2, без internal визора (+)
 | **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | $500/47k   | тихий #1, легкий #1-2, без internal визора (+), racing, d-ring
 | Scorpion EXO-GT sp air             | 99         | 1468       | $480/51k   | тихий #3 (+ 3dB), touring, лучше вентиляция (/R1, /1500), d-ring, + дымчатый визор
-| Scorpion EXO-1500 Carbon air       | 100        | 1424       | $430/46k   | легкий #3, недорогой
+| Scorpion EXO-1500 Carbon air       | 100        | 1446       | €430/46k   | легкий #3, недорогой
 | HJC RPHA 12 Carbon                 | 100        | 1383       | $630/73k   | легкий #3, проверенная марка, много вариантов доступны, racing, d-ring 
-| LS2 Thunder Carbon GP Pro          | 101        | 1341       | €800/101k  |
 | LS2 Dragon                         | 100        | 1466       | €479       | недорогой
-
+| LS2 Vector 2 Carbon                | 102        | 1391       | €380/48k   | д.б. дешевым
 
 У всех pinlock в комплекте.
 
@@ -65,10 +64,6 @@
 | **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | 6171 
 | **Shoei NXR 2**                    | 98         | 1365       | 6265  
 | HJC RPHA 12 Carbon                 | 100        | 1383       | 6383  
-| LS2 Vector 2 Carbon                | 100        | 1391       | 6391  
-| Scorpion EXO-1500 Carbon air       | 100        | 1424       | 6424  
+| Scorpion EXO-1500 Carbon air       | 100        | 1446       | 6446  
 | LS2 Dragon                         | 100        | 1466       | 6466    
 | Shoei GT-Air 3                     | 98         | 1574       | 6474   
-
-
-
