@@ -56,14 +56,14 @@
 
 Разница в 2dB - это примерно на 58% более интенсивный шум.
 
-`perplexity.ai` составил такой рейтинг
+При использовании `perplexity.ai` и формулы `dB*50+gr` получился такой рейтинг
 
 | Helmet model                       | Noise (dB) | Weight (g) | dB*50+gr
 |------------------------------------|------------|------------|------------
-| **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | 6321 
-| **Shoei NXR 2**                    | 98         | 1365       | 6330  
-| **LS2 Vector 2 Carbon**            | 100        | 1391       | 6350  
-| HJC RPHA 12 Carbon                 | 100        | 1383       | 6400  
+| **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | 6171 
+| **Shoei NXR 2**                    | 98         | 1365       | 6265  
+| HJC RPHA 12 Carbon                 | 100        | 1383       | 6383  
+| LS2 Vector 2 Carbon                | 100        | 1391       | 6391  
 | Scorpion EXO-1500 Carbon air       | 100        | 1424       | 6424  
 | LS2 Dragon                         | 100        | 1466       | 6466    
 | Shoei GT-Air 3                     | 98         | 1574       | 6474   
