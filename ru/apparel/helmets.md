@@ -19,8 +19,8 @@
 | **LS2 Dragon**                     | 1466       | 100        | €479 dark smoke visor included 
 | LS2 Vector 2 Carbon                | 1391       | 100        | €379 (road & highway)
 | Arai RX-7V Evo                     | 1557       | 101        |
-| Shoei NXR 2                        | 1370       | -          | $550
-| **Shoei GT-Air 3**                 | 1574       | 98         | $550
+| **Shoei NXR 2**                    | 1365       | 98         | $550
+| Shoei GT-Air 3                     | 1574       | 98         | $550
 | Nolan X-803 RS UC                  | 1390       | 100        | плохое качество материалов (от реального пладельца)
 | Nolan X-804 RS UC                  | 1462       | 100        | €650, 4 размера оболочки
 | HJC RPHA 12                        | 1424/1474  | -          | $550/49k, racing
@@ -43,12 +43,13 @@
 
 | Helmet model                       | Notes
 |------------------------------------|------------
-| Scorpion EXO-R1 evo 2 air          | 1371g, тихий #1, легкий #1, без солнцезащитного выдвижного визора (+), racing, d-ring
-| Scorpion EXO-GT sp air             | 1468g, тихий #3, touring, лучше вентиляция (/R1, /1500), d-ring, есть визор
-| HJC RPHA 12                        | 1424g, легкий #2, проверенная марка, много вариантов доступны, racing, d-ring 
-| LS2 Dragon                         | 1466g, недорогой
-| Scorpion EXO-1500 Carbon air       | 1424g, легкий #2, недорогой
-| Shoei GT-Air 3                     | 1574g, тихий #2
+| Shoei GT-Air 3                     | 99dB, 1574g, тихий #3
+| **Shoei NXR 2**                    | 98dB, 1365g, тихий #2, легкий #1-2, без internal визора (+)
+| **Scorpion EXO-R1 evo 2 air**      | 96dB, 1371g, тихий #1, легкий #1-2, без internal визора (+), racing, d-ring
+| Scorpion EXO-GT sp air             | 99dB, 1468g, тихий #3, touring, лучше вентиляция (/R1, /1500), d-ring, + дымчатый визор
+| Scorpion EXO-1500 Carbon air       | 100dB, 1424g, легкий #3, недорогой
+| HJC RPHA 12                        | 100dB, 1424g, легкий #3, проверенная марка, много вариантов доступны, racing, d-ring 
+| LS2 Dragon                         | 100dB, 1466g, недорогой
 
 У всех pinlock в комплекте.
 
