@@ -25,7 +25,7 @@
 | ~~Nolan X-803 RS UC~~              | 1390       | 100        | плохое качество материалов (от реального пладельца)
 | ~~Nolan X-804 RS UC~~              | 1462       | 100        | €650, 4 размера оболочки
 | HJC RPHA 12                        | 1424/1474  | -          | $550/49k, racing
-| **HJC RPHA 12 Carbon**             | 1383       | 100        | $630/73k, racing
+| **HJC RPHA 12 Carbon**             | 1383       | 100        | $630/63k, racing
 | HJC RPHA 72 /Carbon                | 1429       | 102        | $570/$630,sport-touring
 | HJC RPHA 71 Carbon                 | 1511       | 100        | $640/59k
 | HJC RPHA 71                        | -          | 98         | $560/41k
