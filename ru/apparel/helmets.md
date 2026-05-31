@@ -45,13 +45,13 @@
 | Helmet model                       | Noise (dB) | Weight (g) | Price      | Notes
 |------------------------------------|------------|------------|------------|------------
 | Shoei GT-Air 3                     | 98         | 1574       | $550       | тихий #2 (+ 2dB), touring
-| **Shoei NXR 2**                    | 98         | 1365       | $550/82k   | тихий #2 (+ 2dB), легкий #1-3, w/o int sun visor (+)
+| **Shoei NXR 2**                    | 98         | 1365       | $550/70k   | тихий #2 (+ 2dB), легкий #1-3, w/o int sun visor (+)
 | **HJC RPHA 12 Carbon**             | 100        | 1383       | $630/63k   | легкий #1-3, проверенная марка, много вариантов доступны, racing, d-ring 
-| **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | €500/47k   | тихий #1, легкий #1-3, w/o int sun visor (+), racing, d-ring
-| Scorpion EXO-GT sp air             | 99         | 1468       | €470/51k   | тихий #3 (+ 3dB), touring, лучше вентиляция (/R1, /1500), меньше набивки (vs 1500), d-ring, + дымчатый визор
-| Scorpion EXO-1500 Carbon air       | 100        | 1446       | €430/46k   | легкий #4, недорогой, микрометрический замок, int sun visor
-| LS2 Dragon                         | 100        | 1466       | €479/56k   | недорогой
-| LS2 Vector 2 Carbon                | 102        | 1391       | €380/48k   | д.б. дешевым
+| **Scorpion EXO-R1 evo 2 air**      | 96         | 1371       | €500/64k   | тихий #1, легкий #1-3, w/o int sun visor (+), racing, d-ring
+| Scorpion EXO-GT sp air             | 99         | 1468       | €470/61k   | тихий #3 (+ 3dB), touring, лучше вентиляция (/R1, /1500), меньше набивки (vs 1500), d-ring, + дымчатый визор
+| Scorpion EXO-1500 Carbon air       | 100        | 1446       | €430       | легкий #4, недорогой, микрометрический замок, int sun visor
+| LS2 Dragon                         | 100        | 1466       | €479       | недорогой (?), нет в продаже в мае 2026
+| LS2 Vector 2 Carbon                | 102        | 1391       | €380/48k   | д.б. дешевым, нет в продаже в мае 2026
 
 У всех pinlock в комплекте.
 
